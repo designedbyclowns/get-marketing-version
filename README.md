@@ -1,6 +1,6 @@
 # get-marketing-version
 
-A MacOS cammand line tool that prints the value of the 'CFBundleShortVersionString' key in the provided plist file."
+A MacOS command line tool that prints the value of the 'CFBundleShortVersionString' key in the provided plist file."
 
 ## Usage
 
